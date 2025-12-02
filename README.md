@@ -1,7 +1,7 @@
 # Lógica de Programação com Python 🐍
-![Status](https://img.shields.io/badge/status-Concluído-green)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Feito por](https://img.shields.io/badge/feito%20por-Israel%20Brito-black)
+![Feito por](https://img.shields.io/badge/feito%20por-Israel%20Brito-gray)
 
 ## Sobre o projeto  
 Este repositório reúne uma série de exercícios e exemplos em Python para praticar os fundamentos da lógica de programação. Cada arquivo trata de um conceito específico — desde tipos de dados e variáveis até estruturas de repetição e manipulação de listas — servindo como material de apoio para aprendizado e revisão.
