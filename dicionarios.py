@@ -77,4 +77,17 @@ for palavra in frase:
 for letra in sorted(dic_contagem_letras.keys()):
     print(f"{letra}: {dic_contagem_letras[letra]}")
 
-    
+# Dado um número inteiro positivo n, 
+# crie um dicionário onde as chaves vão de 1 até n, e os valores são os quadrados das chaves.
+
+n = int(input())
+dic_quadradodaschaves = {}
+contador = 1
+
+while (contador <= n):
+  dic_quadradodaschaves[contador] = contador ** 2
+  contador += 1
+
+
+for x, y in dic_quadradodaschaves.items():
+	print(f"{x}: {y}")  
